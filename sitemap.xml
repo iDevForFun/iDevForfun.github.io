@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jasonvella.com/posts/my-first-post/</loc>
+    <lastmod>2023-04-26T22:25:10+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/posts/</loc>
+    <lastmod>2023-04-26T22:25:10+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/about/</loc>
+    <lastmod>2023-04-26T22:25:10+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/</loc>
+    <lastmod>2023-04-26T22:25:10+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/categories/</loc>
+  </url><url>
+    <loc>https://jasonvella.com/tags/</loc>
+  </url>
+</urlset>

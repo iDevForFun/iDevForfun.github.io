@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zero Degrees Kelvin</title>
+    <link>https://jasonvella.com/</link>
+    <description>Recent content on Zero Degrees Kelvin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 22:25:10 +1200</lastBuildDate><atom:link href="https://jasonvella.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jasonvella.com/posts/my-first-post/</link>
+      <pubDate>Wed, 26 Apr 2023 22:25:10 +1200</pubDate>
+      
+      <guid>https://jasonvella.com/posts/my-first-post/</guid>
+      
+        <description>A post abot stuff</description>
+      
+    </item>
+    
+    <item>
+      <title>Who Am I?</title>
+      <link>https://jasonvella.com/about/</link>
+      <pubDate>Wed, 26 Apr 2023 22:25:10 +1200</pubDate>
+      
+      <guid>https://jasonvella.com/about/</guid>
+      
+        <description>I am a software professional and leader who often finds myself drawing analogies with the non-software world. I like to use these as a tool to both remember and explain my ideas in non-technical terms which I find helps level the playing field when dealing with audiences with mixed levels of technical knowledge.
+The name of this blog is one such analogy. We can never reach zero degrees Kelvin but it still exists.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
