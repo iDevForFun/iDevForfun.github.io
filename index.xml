@@ -5,7 +5,20 @@
     <link>https://jasonvella.com/</link>
     <description>Recent content on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jasonvella.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2023 22:46:10 +1200</lastBuildDate><atom:link href="https://jasonvella.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero Degrees Kelvin</title>
+      <link>https://jasonvella.com/posts/zerodegreeskelvin/</link>
+      <pubDate>Tue, 13 Jun 2023 22:46:10 +1200</pubDate>
+      
+      <guid>https://jasonvella.com/posts/zerodegreeskelvin/</guid>
+      
+        <description>It seems fitting that the first post should be about the inspiration for its title.
+The physics nerds in the room can skip to the next paragraph. Zero Kelvin (-273.15C), otherwise known as absolute zero, is the coldest possible temperature in the universe. It is also impossible to reach. When you draw heat out of an object it immediately warms the surrounding environment preventing the object from ever reaching 0k. We&amp;rsquo;ve gotten very, very close &amp;hellip; but never quite there.</description>
+      
+    </item>
+    
     <item>
       <title>Who Am I?</title>
       <link>https://jasonvella.com/about/</link>
