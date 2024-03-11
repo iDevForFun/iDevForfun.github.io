@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jasonvella.com/posts/</loc>
-    <lastmod>2024-02-25T21:48:53+13:00</lastmod>
+    <loc>https://jasonvella.com/posts/codecrashinvestigations/</loc>
+    <lastmod>2024-03-11T22:59:57+13:00</lastmod>
   </url><url>
-    <loc>https://jasonvella.com/posts/scrumfall/</loc>
-    <lastmod>2024-02-25T21:48:53+13:00</lastmod>
+    <loc>https://jasonvella.com/posts/</loc>
+    <lastmod>2024-03-11T22:59:57+13:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/</loc>
+    <lastmod>2024-03-11T22:59:57+13:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/posts/scrumfall/</loc>
     <lastmod>2024-02-25T21:48:53+13:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/posts/makeyourcvstandout/</loc>
