@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jasonvella.com/posts/codecrashinvestigations/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-29T19:17:42+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/techdebttetris/</loc>
+    <lastmod>2024-03-29T19:17:42+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-29T19:17:42+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/codecrashinvestigations/</loc>
     <lastmod>2024-03-11T22:59:57+13:00</lastmod>
   </url><url>
-    <loc>https://jasonvella.com/posts/</loc>
-    <lastmod>2024-03-11T22:59:57+13:00</lastmod>
-  </url><url>
-    <loc>https://jasonvella.com/</loc>
-    <lastmod>2024-03-11T22:59:57+13:00</lastmod>
-  </url><url>
-    <loc>https://jasonvella.com/posts/scrumfall/</loc>
+    <loc>http://localhost:1313/posts/scrumfall/</loc>
     <lastmod>2024-02-25T21:48:53+13:00</lastmod>
   </url><url>
-    <loc>https://jasonvella.com/posts/makeyourcvstandout/</loc>
+    <loc>http://localhost:1313/posts/makeyourcvstandout/</loc>
     <lastmod>2023-11-28T22:22:00+13:00</lastmod>
   </url><url>
-    <loc>https://jasonvella.com/posts/zerodegreeskelvin/</loc>
+    <loc>http://localhost:1313/posts/zerodegreeskelvin/</loc>
     <lastmod>2023-06-13T22:46:10+12:00</lastmod>
   </url><url>
-    <loc>https://jasonvella.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-04-26T22:25:10+12:00</lastmod>
   </url><url>
-    <loc>https://jasonvella.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://jasonvella.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
