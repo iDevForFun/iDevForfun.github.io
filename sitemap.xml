@@ -2,17 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/defendingperformance/</loc>
+    <lastmod>2024-05-21T20:53:30+12:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-29T19:17:42+13:00</lastmod>
+    <lastmod>2024-05-21T20:53:30+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-21T20:53:30+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/techdebttetris/</loc>
     <lastmod>2024-03-29T19:17:42+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-29T19:17:42+13:00</lastmod>
+    <loc>http://localhost:1313/posts/perfectstorm/</loc>
+    <lastmod>2024-03-26T12:34:22+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/thecaseofproductvsengineering/</loc>
+    <lastmod>2024-03-23T19:25:01+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/rewardcycles/</loc>
+    <lastmod>2024-03-23T19:24:27+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/codecrashinvestigations/</loc>
     <lastmod>2024-03-11T22:59:57+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/complexsolutionstosimpleproblems/</loc>
+    <lastmod>2024-03-11T22:18:24+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/futureofcomputingwithai/</loc>
+    <lastmod>2024-02-25T21:48:53+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/scrumfall/</loc>
     <lastmod>2024-02-25T21:48:53+13:00</lastmod>

@@ -6,7 +6,20 @@
     <description>Recent content on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Mar 2024 19:17:42 +1300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 20:53:30 +1200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In the defense of performance</title>
+      <link>http://localhost:1313/posts/defendingperformance/</link>
+      <pubDate>Tue, 21 May 2024 20:53:30 +1200</pubDate>
+      
+      <guid>http://localhost:1313/posts/defendingperformance/</guid>
+      
+        <description>Defensive programming is a solid practice to adopt and I generally advocate that we do so but we have to be careful we are still getting the value we expect from the practice.
+Checking input for validity before we execute logic is common and aims to error out quickly before expending resources on something that will fail. In most cases this is the right thing to do.
+public async Task SetAccountStatus(string accountNumber, Status status) { if (string.</description>
+      
+    </item>
+    
     <item>
       <title>Tech Debt Tetris</title>
       <link>http://localhost:1313/posts/techdebttetris/</link>
@@ -20,6 +33,41 @@ When you make a mistake in Tetris you end up with a hole in a row that is buried
     </item>
     
     <item>
+      <title>PerfectStorm</title>
+      <link>http://localhost:1313/posts/perfectstorm/</link>
+      <pubDate>Tue, 26 Mar 2024 12:34:22 +1300</pubDate>
+      
+      <guid>http://localhost:1313/posts/perfectstorm/</guid>
+      
+        <description> absent/too busy leadership team leave people unattended clique forms and not kept in check team potimises for its own area at the detriment of wider group environment becomes toxic for those outside the clique good people leave toxic misbehaved ones stay </description>
+      
+    </item>
+    
+    <item>
+      <title>TheCaseOfProductVsEngineering</title>
+      <link>http://localhost:1313/posts/thecaseofproductvsengineering/</link>
+      <pubDate>Sat, 23 Mar 2024 19:25:01 +1300</pubDate>
+      
+      <guid>http://localhost:1313/posts/thecaseofproductvsengineering/</guid>
+      
+        <description>Product heavy - all features and no comprehension of the engineering problems that need solving and how that would help product move faster Engineering heavy - playing with toys (FF sytsems, mocking apps) and not doing the thing that is unique to your business</description>
+      
+    </item>
+    
+    <item>
+      <title>RewardCycles</title>
+      <link>http://localhost:1313/posts/rewardcycles/</link>
+      <pubDate>Sat, 23 Mar 2024 19:24:27 +1300</pubDate>
+      
+      <guid>http://localhost:1313/posts/rewardcycles/</guid>
+      
+        <description>startups
+short reward cycle with bigger rewards enterprise
+long reward cycle with smaller rewards reward cycles get longer as you move up through management</description>
+      
+    </item>
+    
+    <item>
       <title>Code Crash Investigations</title>
       <link>http://localhost:1313/posts/codecrashinvestigations/</link>
       <pubDate>Mon, 11 Mar 2024 22:59:57 +1300</pubDate>
@@ -27,6 +75,31 @@ When you make a mistake in Tetris you end up with a hole in a row that is buried
       <guid>http://localhost:1313/posts/codecrashinvestigations/</guid>
       
         <description>I&amp;rsquo;m quite a fan of a Canadian documentary series called Air Crash Investigations. The show re-enacts aviation incidents and the investigations that follow. Admittedly, its a little dark, but its absolutely fascinating. The debris field can be vast and there&amp;rsquo;s often very little left of the aircraft. None the less, the investigators painstakingly piece together the chain of events and sequences of errors that led to a plane falling out of the sky.</description>
+      
+    </item>
+    
+    <item>
+      <title>ComplexSolutionsToSimpleProblems</title>
+      <link>http://localhost:1313/posts/complexsolutionstosimpleproblems/</link>
+      <pubDate>Mon, 11 Mar 2024 22:18:24 +1300</pubDate>
+      
+      <guid>http://localhost:1313/posts/complexsolutionstosimpleproblems/</guid>
+      
+        <description>stages of development of an engineer toddler everything is hard challenge to make things work child things are easier now we kind of understand the world around us we make lots of mess our code works now but is a tighly coupled nightmare teenager its a tough time for most of us look like an adult think like a child we dream up an ever more complex problem domain with non-existet requirements then we solve that problem!</description>
+      
+    </item>
+    
+    <item>
+      <title>FutureOfComputingWithAi</title>
+      <link>http://localhost:1313/posts/futureofcomputingwithai/</link>
+      <pubDate>Sun, 25 Feb 2024 21:48:53 +1300</pubDate>
+      
+      <guid>http://localhost:1313/posts/futureofcomputingwithai/</guid>
+      
+        <description>cables/switches punch cards assembler early programming languages (COBOL, FORTRAN, etc) modern programming languages (C#, JavaScript, etc) command-line interfaces (CLI) graphical user interfaces (GUI) touch interfaces voice interfaces gesture-based interfaces biosignal interfaces (e.g., brain-computer interfaces) &amp;hellip;.
+What comes next
+MS Build
+copilot for all the things no longer interact with the software but interact with the AI and it operates the software for you what does UX look like for traditional user interfaces in this world do we start optimising UI so its easier for an AI to interact with even if its less optimal for a human Vision OS</description>
       
     </item>
     
