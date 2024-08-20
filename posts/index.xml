@@ -2,17 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zero Degrees Kelvin</title>
-    <link>https://jasonvella.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 20:53:30 +1200</lastBuildDate><atom:link href="https://jasonvella.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2024 21:54:02 +1200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Ownership Experience</title>
+      <link>http://localhost:1313/posts/softwareownershipexperience/</link>
+      <pubDate>Tue, 20 Aug 2024 21:54:02 +1200</pubDate>
+      
+      <guid>http://localhost:1313/posts/softwareownershipexperience/</guid>
+      
+        <description>When I was a teenager I started saving up for my first vehicle and I remember my Dad saying the cost of buying it was the cheapest part of the ownership experience. I had not a clue what he meant but as I grew I understood that the cumulative cost of insurance, maintenance, registration, fuel, etc over the time of ownership often dwarfs the cost of purchase.
+The same can be said for software design and implementation.</description>
+      
+    </item>
+    
     <item>
       <title>In the defence of performance</title>
-      <link>https://jasonvella.com/posts/defendingperformance/</link>
+      <link>http://localhost:1313/posts/defendingperformance/</link>
       <pubDate>Tue, 21 May 2024 20:53:30 +1200</pubDate>
       
-      <guid>https://jasonvella.com/posts/defendingperformance/</guid>
+      <guid>http://localhost:1313/posts/defendingperformance/</guid>
       
         <description>Defensive programming is a solid practice to adopt and I generally advocate that we do so but we have to be careful we are still getting the value we expect from the practice.
 Checking input for validity before we execute logic is common and aims to error out quickly before expending resources on something that will fail. In most cases this is the right thing to do.
@@ -22,10 +34,10 @@ public async Task SetAccountStatus(string accountNumber, Status status) { if (st
     
     <item>
       <title>Tech Debt Tetris</title>
-      <link>https://jasonvella.com/posts/techdebttetris/</link>
+      <link>http://localhost:1313/posts/techdebttetris/</link>
       <pubDate>Fri, 29 Mar 2024 19:17:42 +1300</pubDate>
       
-      <guid>https://jasonvella.com/posts/techdebttetris/</guid>
+      <guid>http://localhost:1313/posts/techdebttetris/</guid>
       
         <description>Some time ago I was getting an old gameboy up and running again and found myself enjoying a game of Tetris. It occurred to me that this game is not dissimilar to the concept of technical debt.
 When you make a mistake in Tetris you end up with a hole in a row that is buried beneath subsequent rows. You can&amp;rsquo;t clear that row until you clear all the rows above it which accumulate as you make mistakes and introduce more holes.</description>
@@ -34,10 +46,10 @@ When you make a mistake in Tetris you end up with a hole in a row that is buried
     
     <item>
       <title>Code Crash Investigations</title>
-      <link>https://jasonvella.com/posts/codecrashinvestigations/</link>
+      <link>http://localhost:1313/posts/codecrashinvestigations/</link>
       <pubDate>Mon, 11 Mar 2024 22:59:57 +1300</pubDate>
       
-      <guid>https://jasonvella.com/posts/codecrashinvestigations/</guid>
+      <guid>http://localhost:1313/posts/codecrashinvestigations/</guid>
       
         <description>I&amp;rsquo;m quite a fan of a Canadian documentary series called Air Crash Investigations. The show re-enacts aviation incidents and the investigations that follow. Admittedly, its a little dark, but its absolutely fascinating. The debris field can be vast and there&amp;rsquo;s often very little left of the aircraft. None the less, the investigators painstakingly piece together the chain of events and sequences of errors that led to a plane falling out of the sky.</description>
       
@@ -45,10 +57,10 @@ When you make a mistake in Tetris you end up with a hole in a row that is buried
     
     <item>
       <title>Scrumfall</title>
-      <link>https://jasonvella.com/posts/scrumfall/</link>
+      <link>http://localhost:1313/posts/scrumfall/</link>
       <pubDate>Sun, 25 Feb 2024 21:48:53 +1300</pubDate>
       
-      <guid>https://jasonvella.com/posts/scrumfall/</guid>
+      <guid>http://localhost:1313/posts/scrumfall/</guid>
       
         <description>A while ago in a company I worked for I noticed something strange. We were doing all the ceremonies of Scrum with the sprint plannings and retros and so on, yet we seemed to be moving intolerably slowly. Everything took forever to get to prod and was often not in good shape by the time it got there.
 Looking up into the management layer, executives and board members were wanting to know what we were dropping over the next few quarters, what big splash features we planned to implement, and how they would attract further investment.</description>
@@ -57,10 +69,10 @@ Looking up into the management layer, executives and board members were wanting 
     
     <item>
       <title>How to Make Your CV Stand Out</title>
-      <link>https://jasonvella.com/posts/makeyourcvstandout/</link>
+      <link>http://localhost:1313/posts/makeyourcvstandout/</link>
       <pubDate>Tue, 28 Nov 2023 22:22:00 +1300</pubDate>
       
-      <guid>https://jasonvella.com/posts/makeyourcvstandout/</guid>
+      <guid>http://localhost:1313/posts/makeyourcvstandout/</guid>
       
         <description>I&amp;rsquo;ve sometimes taken the opportunity to speak on engineering career panels and a question often asked by new engineers or graduates is &amp;lsquo;How do I make my CV stand out?&amp;rsquo; The answers given are often of a similar ilk - write a cover letter, research the company, make sure the employer understands why you&amp;rsquo;re excited about their particular business. Whilst this is great advice, it may or may not make you stand out.</description>
       
@@ -68,10 +80,10 @@ Looking up into the management layer, executives and board members were wanting 
     
     <item>
       <title>Zero Degrees Kelvin</title>
-      <link>https://jasonvella.com/posts/zerodegreeskelvin/</link>
+      <link>http://localhost:1313/posts/zerodegreeskelvin/</link>
       <pubDate>Tue, 13 Jun 2023 22:46:10 +1200</pubDate>
       
-      <guid>https://jasonvella.com/posts/zerodegreeskelvin/</guid>
+      <guid>http://localhost:1313/posts/zerodegreeskelvin/</guid>
       
         <description>It seems fitting that the first post should be about the inspiration for its title.
 The physics nerds in the room can skip to the next paragraph. Zero Kelvin (-273.15C), otherwise known as absolute zero, is the coldest possible temperature in the universe. It is also impossible to reach. When you draw heat out of an object it immediately warms the surrounding environment preventing the object from ever reaching 0k. We&amp;rsquo;ve gotten very, very close &amp;hellip; but never quite there.</description>
