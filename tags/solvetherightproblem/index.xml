@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SolveTheRightProblem on Zero Degrees Kelvin</title>
-    <link>https://jasonvella.com/tags/solvetherightproblem/</link>
+    <link>http://localhost:1313/tags/solvetherightproblem/</link>
     <description>Recent content in SolveTheRightProblem on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 20:53:30 +1200</lastBuildDate><atom:link href="https://jasonvella.com/tags/solvetherightproblem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Sep 2024 21:39:13 +1200</lastBuildDate><atom:link href="http://localhost:1313/tags/solvetherightproblem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swim between the flags</title>
+      <link>http://localhost:1313/posts/safetyflags/</link>
+      <pubDate>Fri, 20 Sep 2024 21:39:13 +1200</pubDate>
+      
+      <guid>http://localhost:1313/posts/safetyflags/</guid>
+      
+        <description>If you release software with any reasonable cadence, it&amp;rsquo;s almost inevitable you will end up using a feature flag system of one sort or another. There always comes the time when engineering wants to decouple from the release cycle of the Go To Market (GTM) team and with good reason. The GTM team is slower and more traditional. They want to announce big &amp;ldquo;drops&amp;rdquo; and send out the marching band to showcase all the cool new stuff you can do in a process that can take months to orchestrate whereas we prefer to deploy more frequently in small increments.</description>
+      
+    </item>
+    
     <item>
       <title>In the defence of performance</title>
-      <link>https://jasonvella.com/posts/defendingperformance/</link>
+      <link>http://localhost:1313/posts/defendingperformance/</link>
       <pubDate>Tue, 21 May 2024 20:53:30 +1200</pubDate>
       
-      <guid>https://jasonvella.com/posts/defendingperformance/</guid>
+      <guid>http://localhost:1313/posts/defendingperformance/</guid>
       
         <description>Defensive programming is a solid practice to adopt and I generally advocate that we do so but we have to be careful we are still getting the value we expect from the practice.
 Checking input for validity before we execute logic is common and aims to error out quickly before expending resources on something that will fail. In most cases this is the right thing to do.

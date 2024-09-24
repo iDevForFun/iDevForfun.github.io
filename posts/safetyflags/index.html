@@ -122,8 +122,8 @@
 <meta property="og:description" content="If you release software with any reasonable cadence, it&rsquo;s almost inevitable you will end up using a feature flag system of one sort or another. There always comes the time when engineering wants to decouple from the release cycle of the Go To Market (GTM) team and with good reason. The GTM team is slower and more traditional. They want to announce big &ldquo;drops&rdquo; and send out the marching band to showcase all the cool new stuff you can do in a process that can take months to orchestrate whereas we prefer to deploy more frequently in small increments." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/posts/safetyflags/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2024-08-20T21:39:13+12:00" />
-<meta property="article:modified_time" content="2024-08-20T21:39:13+12:00" /><meta property="og:site_name" content="Zero Degrees Kelvin" />
+<meta property="article:published_time" content="2024-09-24T21:49:13+12:00" />
+<meta property="article:modified_time" content="2024-09-24T21:49:13+12:00" /><meta property="og:site_name" content="Zero Degrees Kelvin" />
 
 
 
@@ -171,9 +171,9 @@
             "name": "Jason Vella"
         },
         "copyrightYear" : "2024",
-        "dateCreated": "2024-08-20T21:39:13.00Z",
-        "datePublished": "2024-08-20T21:39:13.00Z",
-        "dateModified": "2024-08-20T21:39:13.00Z",
+        "dateCreated": "2024-09-24T21:49:13.00Z",
+        "datePublished": "2024-09-24T21:49:13.00Z",
+        "dateModified": "2024-09-24T21:49:13.00Z",
         "publisher":{
             "@type":"Organization",
             "name": "Jason Vella",
@@ -191,7 +191,7 @@
 
     ,
         "url" : "http:\/\/localhost:1313\/posts\/safetyflags\/",
-        "wordCount" : "681",
+        "wordCount" : "703",
         "genre" : [ ],
         "keywords" : [ 
       
@@ -366,9 +366,9 @@ if (!doNotTrack) {
 <p>The team quickly learns to use safety flags around every change they make &ldquo;just in case&rdquo; and before you know it you have hundreds of feature flags in play. Toggling feature flags becomes perilous as there are now so many logic paths it&rsquo;s impossible to properly test all the combinations. The people who created the flags in the first place have left and we&rsquo;re not quite sure what they toggle anymore. With the lack of tests around the flags we&rsquo;d best leave them alone and not risk breaking things. BOOOOOOOO!</p>
 <p>It is honestly breathtaking how quickly this can get out of hand even in a small team!</p>
 <p>We must accept that each flag adds a significant burden to the SDLC in the form of backward compatibility which doubles our testing effort to verify both sides of the flag. Feature flags can be a powerful tool but they should be used sparingly and, as obvious as it may seem, add value rather than hinder it.</p>
-<p>But what about our safety net? By using flags to manage production issues we&rsquo;re solving the problem at hand rather than the problem at cause. The issue still made it out to production, still bothered customers enough to cause an incident, still caused the feature to be completely rolled back for everyone. The only thing it optimised for is speed to rollback.</p>
-<p>Safety flags solve the wrong problem. If you have bugs making it out to production significant enough to warrant rollback of an entire feature, you have a quality problem and that is the problem that needs solving. Throwing a bunch of flags and logic branches over a system that already has a quality problem is a sure-fire way to make it worse. I&rsquo;d suggest time spent shifting left and ensuring defects are caught earlier in the SDLC will result in better outcomes than the ability to quickly rollback a defect on production.</p>
-<p>All this being said, feature flags are still a powerful tool that can be used effectively if we apply a few guardrails to keep things sane:</p>
+<p>But what about our safety net? By using flags to manage production issues we&rsquo;re solving the problem at hand rather than the problem at cause. The issue still made it out to production, still bothered customers enough to cause an incident, still caused the feature to be completely rolled back for everyone. The only thing optimised for is speed to rollback.</p>
+<p>Safety flags solve the wrong problem. If you have bugs making it out to production significant enough to warrant rollback of an entire feature, you have a quality problem and <em>that</em> is the problem that needs solving. Throwing a bunch of flags and logic branches over a system that already has a quality problem is a sure-fire way to make it worse. I&rsquo;d suggest time spent shifting left and ensuring defects are caught earlier in the SDLC will result in better outcomes than the ability to quickly rollback a defect <em>after</em> it&rsquo;s out in production.</p>
+<p>All this being said, feature flags are still a powerful tool that can be used effectively if we apply a handful of guardrails to keep things sane:</p>
 <ul>
 <li>
 <p>Do you <em>really</em> need that flag? If the feature is small and can be released with a code deployment without fanfare then just do that. The easiest flag to deal with is the one you didn&rsquo;t create.</p>
@@ -381,6 +381,9 @@ if (!doNotTrack) {
 </li>
 <li>
 <p>Clean up the feature flag and all the associated logic branches as soon as possible after the release. It&rsquo;s done its job and its time to shed the burden that comes with it.</p>
+</li>
+<li>
+<p>Avoid nesting flags or making them dependant on each other resulting complex toggle on/off sequences with sometimes unpredictable results.</p>
 </li>
 </ul>
 </div>
