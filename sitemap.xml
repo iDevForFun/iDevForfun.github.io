@@ -2,45 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jasonvella.com/posts/</loc>
+    <lastmod>2024-09-24T21:49:13+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/tags/solvetherightproblem/</loc>
+    <lastmod>2024-09-24T21:49:13+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/posts/safetyflags/</loc>
+    <lastmod>2024-09-24T21:49:13+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/tags/</loc>
+    <lastmod>2024-09-24T21:49:13+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/</loc>
+    <lastmod>2024-09-24T21:49:13+12:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/speaking/</loc>
     <lastmod>2024-09-21T11:34:13+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-20T21:39:13+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/solvetherightproblem/</loc>
-    <lastmod>2024-09-20T21:39:13+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/safetyflags/</loc>
-    <lastmod>2024-09-20T21:39:13+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-20T21:39:13+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/softwareownershipexperience/</loc>
+    <loc>https://jasonvella.com/posts/softwareownershipexperience/</loc>
     <lastmod>2024-08-20T21:54:02+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/defendingperformance/</loc>
+    <loc>https://jasonvella.com/posts/defendingperformance/</loc>
     <lastmod>2024-05-21T20:53:30+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/techdebttetris/</loc>
+    <loc>https://jasonvella.com/posts/techdebttetris/</loc>
     <lastmod>2024-03-29T19:17:42+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/codecrashinvestigations/</loc>
+    <loc>https://jasonvella.com/posts/codecrashinvestigations/</loc>
     <lastmod>2024-03-11T22:59:57+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/scrumfall/</loc>
+    <loc>https://jasonvella.com/posts/scrumfall/</loc>
     <lastmod>2024-02-25T21:48:53+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/makeyourcvstandout/</loc>
+    <loc>https://jasonvella.com/posts/makeyourcvstandout/</loc>
     <lastmod>2023-11-28T22:22:00+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zerodegreeskelvin/</loc>
+    <loc>https://jasonvella.com/posts/zerodegreeskelvin/</loc>
     <lastmod>2023-06-13T22:46:10+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jasonvella.com/about/</loc>
     <lastmod>2023-04-26T22:25:10+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jasonvella.com/categories/</loc>
   </url>
 </urlset>
