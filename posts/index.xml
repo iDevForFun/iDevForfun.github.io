@@ -14,7 +14,7 @@
       
       <guid>https://jasonvella.com/posts/safetyflags/</guid>
       
-        <description>If you release software with any reasonable cadence, it&amp;rsquo;s almost inevitable you will end up using a feature flag system of one sort or another. There always comes the time when engineering wants to decouple from the release cycle of the Go To Market (GTM) team and with good reason. The GTM team is slower and more traditional. They want to announce big &amp;ldquo;drops&amp;rdquo; and send out the marching band to showcase all the cool new stuff you can do in a process that can take months to orchestrate whereas we prefer to deploy more frequently in small increments.</description>
+        <description>&lt;p&gt;If you release software with any reasonable cadence, it&amp;rsquo;s almost inevitable you will end up using a feature flag system of one sort or another. There always comes the time when engineering wants to decouple from the release cycle of the Go To Market (GTM) team and with good reason. The GTM team is slower and more traditional. They want to announce big &amp;ldquo;drops&amp;rdquo; and send out the marching band to showcase all the cool new stuff you can do in a process that can take months to orchestrate whereas we prefer to deploy more frequently in small increments.&lt;/p&gt;</description>
       
     </item>
     
@@ -25,8 +25,7 @@
       
       <guid>https://jasonvella.com/posts/softwareownershipexperience/</guid>
       
-        <description>When I was a teenager I started saving up for my first vehicle and I remember my dad saying the cost of buying it was the cheapest part of the ownership experience. I had not a clue what he meant but as I grew I understood that the cumulative cost of insurance, maintenance, registration, fuel, etc over the time of ownership often dwarfs the cost of purchase.
-The same can be said for software design and implementation.</description>
+        <description>&lt;p&gt;When I was a teenager I started saving up for my first vehicle and I remember my dad saying the cost of buying it was the cheapest part of the ownership experience. I had not a clue what he meant but as I grew I understood that the cumulative cost of insurance, maintenance, registration, fuel, etc over the time of ownership often dwarfs the cost of purchase.&lt;/p&gt;</description>
       
     </item>
     
@@ -37,9 +36,7 @@ The same can be said for software design and implementation.</description>
       
       <guid>https://jasonvella.com/posts/defendingperformance/</guid>
       
-        <description>Defensive programming is a solid practice to adopt and I generally advocate that we do so but we have to be careful we are still getting the value we expect from the practice.
-Checking input for validity before we execute logic is common and aims to error out quickly before expending resources on something that will fail. In most cases this is the right thing to do.
-public async Task SetAccountStatus(string accountNumber, Status status) { if (string.</description>
+        <description>&lt;p&gt;Defensive programming is a solid practice to adopt and I generally advocate that we do so but we have to be careful we are still getting the value we expect from the practice.&lt;/p&gt;</description>
       
     </item>
     
@@ -50,8 +47,7 @@ public async Task SetAccountStatus(string accountNumber, Status status) { if (st
       
       <guid>https://jasonvella.com/posts/techdebttetris/</guid>
       
-        <description>Some time ago I was getting an old gameboy up and running again and found myself enjoying a game of Tetris. It occurred to me that this game is not dissimilar to the concept of technical debt.
-When you make a mistake in Tetris you end up with a hole in a row that is buried beneath subsequent rows. You can&amp;rsquo;t clear that row until you clear all the rows above it which accumulate as you make mistakes and introduce more holes.</description>
+        <description>&lt;p&gt;Some time ago I was getting an old gameboy up and running again and found myself enjoying a game of Tetris. It occurred to me that this game is not dissimilar to the concept of technical debt.&lt;/p&gt;</description>
       
     </item>
     
@@ -62,7 +58,7 @@ When you make a mistake in Tetris you end up with a hole in a row that is buried
       
       <guid>https://jasonvella.com/posts/codecrashinvestigations/</guid>
       
-        <description>I&amp;rsquo;m quite a fan of a Canadian documentary series called Air Crash Investigations. The show re-enacts aviation incidents and the investigations that follow. Admittedly, its a little dark, but its absolutely fascinating. The debris field can be vast and there&amp;rsquo;s often very little left of the aircraft. None the less, the investigators painstakingly piece together the chain of events and sequences of errors that led to a plane falling out of the sky.</description>
+        <description>&lt;p&gt;I&amp;rsquo;m quite a fan of a Canadian documentary series called &lt;a href=&#34;https://en.wikipedia.org/wiki/Mayday_%28Canadian_TV_series%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Air Crash Investigations&lt;/a&gt;. The show re-enacts aviation incidents and the investigations that follow. Admittedly, its a little dark, but its absolutely &lt;em&gt;fascinating&lt;/em&gt;. The debris field can be vast and there&amp;rsquo;s often very little left of the aircraft. None the less, the investigators painstakingly piece together the chain of events and sequences of errors that led to a plane falling out of the sky.&lt;/p&gt;</description>
       
     </item>
     
@@ -73,8 +69,7 @@ When you make a mistake in Tetris you end up with a hole in a row that is buried
       
       <guid>https://jasonvella.com/posts/scrumfall/</guid>
       
-        <description>A while ago in a company I worked for I noticed something strange. We were doing all the ceremonies of Scrum with the sprint plannings and retros and so on, yet we seemed to be moving intolerably slowly. Everything took forever to get to prod and was often not in good shape by the time it got there.
-Looking up into the management layer, executives and board members were wanting to know what we were dropping over the next few quarters, what big splash features we planned to implement, and how they would attract further investment.</description>
+        <description>&lt;p&gt;A while ago in a company I worked for I noticed something strange. We were doing all the ceremonies of Scrum with the sprint plannings and retros and so on, yet we seemed to be moving intolerably slowly. Everything took forever to get to prod and was often not in good shape by the time it got there.&lt;/p&gt;</description>
       
     </item>
     
@@ -85,7 +80,7 @@ Looking up into the management layer, executives and board members were wanting 
       
       <guid>https://jasonvella.com/posts/makeyourcvstandout/</guid>
       
-        <description>I&amp;rsquo;ve sometimes taken the opportunity to speak on engineering career panels and a question often asked by new engineers or graduates is &amp;lsquo;How do I make my CV stand out?&amp;rsquo; The answers given are often of a similar ilk - write a cover letter, research the company, make sure the employer understands why you&amp;rsquo;re excited about their particular business. Whilst this is great advice, it may or may not make you stand out.</description>
+        <description>&lt;p&gt;I&amp;rsquo;ve sometimes taken the opportunity to speak on engineering career panels and a question often asked by new engineers or graduates is &amp;lsquo;How do I make my CV stand out?&amp;rsquo; The answers given are often of a similar ilk - write a cover letter, research the company, make sure the employer understands why you&amp;rsquo;re excited about their particular business. Whilst this is great advice, it may or may not make you stand out. What stands out to me is not the same as what stands out to someone else. Hiring managers are people just like you and I, they have biases, preferences, opinions. There is no one-size-fits-all technique to get your CV into the &amp;lsquo;YES&amp;rsquo; pile.&lt;/p&gt;</description>
       
     </item>
     
@@ -96,8 +91,7 @@ Looking up into the management layer, executives and board members were wanting 
       
       <guid>https://jasonvella.com/posts/zerodegreeskelvin/</guid>
       
-        <description>It seems fitting that the first post should be about the inspiration for its title.
-The physics nerds in the room can skip to the next paragraph. Zero Kelvin (-273.15C), otherwise known as absolute zero, is the coldest possible temperature in the universe. It is also impossible to reach. When you draw heat out of an object it immediately warms the surrounding environment preventing the object from ever reaching 0k. We&amp;rsquo;ve gotten very, very close &amp;hellip; but never quite there.</description>
+        <description>&lt;p&gt;It seems fitting that the first post should be about the inspiration for its title.&lt;/p&gt;</description>
       
     </item>
     
