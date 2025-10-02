@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jasonvella.com/tags/ai/</loc>
+    <lastmod>2025-10-02T12:00:57+13:00</lastmod>
+  </url><url>
     <loc>https://jasonvella.com/posts/</loc>
+    <lastmod>2025-10-02T12:00:57+13:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/tags/</loc>
     <lastmod>2025-10-02T12:00:57+13:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/posts/economicsofaiagents/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2024-09-24T21:49:13+12:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/posts/safetyflags/</loc>
-    <lastmod>2024-09-24T21:49:13+12:00</lastmod>
-  </url><url>
-    <loc>https://jasonvella.com/tags/</loc>
     <lastmod>2024-09-24T21:49:13+12:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/speaking/</loc>
