@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deming on Zero Degrees Kelvin</title>
+    <link>https://jasonvella.com/tags/deming/</link>
+    <description>Recent content in Deming on Zero Degrees Kelvin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 21:12:42 +1300</lastBuildDate><atom:link href="https://jasonvella.com/tags/deming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Humans with the SDLC</title>
+      <link>https://jasonvella.com/posts/scalinghumanswiththesdlc/</link>
+      <pubDate>Wed, 05 Mar 2025 21:12:42 +1300</pubDate>
+      
+      <guid>https://jasonvella.com/posts/scalinghumanswiththesdlc/</guid>
+      
+        <description>&lt;script&gt;
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
+
+    const doc = document.documentElement;
+
+    function setMermaidTheme() {
+      
+        const isDarkMode = doc.classList.contains(&#39;theme--dark&#39;);
+        mermaid.initialize({ theme: isDarkMode ? &#39;dark&#39; : &#39;default&#39; });
+        mermaid.contentLoaded();
+    }
+
+    setMermaidTheme();
+
+    const observer = new MutationObserver(setMermaidTheme);
+    observer.observe(doc, { attributes: true, attributeFilter: [&#39;class&#39;] });
+
+});
+
+&lt;/script&gt;
+&lt;p&gt;It&amp;rsquo;s well understood that the vast majority of people turn up to work every day wanting to do a great job and be recognised for their efforts in whatever way grants the dopamine hit we all so desire. If this holds true, then we should also expect that all workplaces, large or small, operate like a well oiled machine yet we know this isn&amp;rsquo;t the case. So what&amp;rsquo;s the happs?&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
