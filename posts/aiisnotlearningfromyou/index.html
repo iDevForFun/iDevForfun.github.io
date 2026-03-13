@@ -201,7 +201,7 @@ No. The AI is not learning from you. Really it isn’t although I hear this ofte
 
     ,
         "url" : "https:\/\/jasonvella.com\/posts\/aiisnotlearningfromyou\/",
-        "wordCount" : "1204",
+        "wordCount" : "1207",
         "genre" : [ ],
         "keywords" : [ 
       
@@ -398,7 +398,7 @@ No. The AI is not learning from you. Really it isn’t although I hear this ofte
 <p>No. The AI is not learning from you. Really it isn&rsquo;t although I hear this often and people are so convinced that this is the case.</p>
 <p>To understand this let&rsquo;s have a look at the basics of ML and how training works. Roughly speaking, a dataset is converted to numeric format &hellip; words, pictures, whatever &hellip; converted to numbers. Those numbers are then fed into a sophisticated mathematical formula with a set of random coefficients (weights) and the maths calculates the most probable next value of the thing we&rsquo;re interested in. We then measure the prediction vs a known result and use a numerical error calculation to adjust the weights and try again. This is done repeatedly until the values returned match expectations.</p>
 <p>That&rsquo;s a <em>very</em> cut down version of what happens but the takeaway is that training is a one time event and the result is a mathematical formula and a set of weights. When you prompt a model your prompt and those weights are fed into the formula &hellip; maths happens &hellip; and the most statistically probable next value is returned. Your prompt does not affect those weights. Nothing does. For those weights to be affected we&rsquo;d need to train the model again with new data. From scratch (not entirely true - fine tuning et al omitted in favour of simplicity).</p>
-<p>When you use Claude et al though, it feels like the model remembers you. It <em>knows</em> things about you from previous conversations. It <em>remembers</em>. No, it really doesn&rsquo;t. Claude is not an LLM but rather a sophisticated software system that consumes a model at its heart. It&rsquo;s good old deterministic logic that saves your chat history into a database of some sort and with each prompt retrieves relevant context and feeds it into the model prompt giving it all the information it needs to answer a question correctly. Claude is far more sophisticated than what I have described here but for example&rsquo;s sake this explanation will suffice.</p>
+<p>When you use Claude et al though, it feels like the model remembers you. It <em>knows</em> things about you from previous conversations. It <em>remembers</em>. No, it really doesn&rsquo;t. Claude is not an LLM but rather a sophisticated software system that consumes a model at its heart. It&rsquo;s good old deterministic logic that saves your chat history into a database of some sort and with each prompt retrieves relevant context and feeds it into the model with your prompt to give it all the information it needs to answer your question correctly. Claude is far more sophisticated than what I have described here but for example&rsquo;s sake this explanation will suffice.</p>
 <p>Let&rsquo;s see this in action &hellip;</p>
 <pre tabindex="0"><code>Name five people I should follow on LinkedIn
 </code></pre><p>Using LM Studio and the meta/llama-3.3-70b model (just the raw LLM with no fancy harness around it) I get the following response:</p>
