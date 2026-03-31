@@ -2,28 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zero Degrees Kelvin</title>
-    <link>https://jasonvella.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 12:30:00 +1300</lastBuildDate><atom:link href="https://jasonvella.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 12:00:00 +1300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://jasonvella.com/tags/ai/</link>
-      <pubDate>Fri, 13 Mar 2026 12:30:00 +1300</pubDate>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +1300</pubDate>
       
-      <guid>https://jasonvella.com/tags/ai/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>W Edwards Deming</title>
-      <link>https://jasonvella.com/tags/w-edwards-deming/</link>
-      <pubDate>Wed, 05 Mar 2025 21:12:42 +1300</pubDate>
-      
-      <guid>https://jasonvella.com/tags/w-edwards-deming/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       
         <description></description>
       
@@ -31,10 +20,21 @@
     
     <item>
       <title>SolveTheRightProblem</title>
-      <link>https://jasonvella.com/tags/solvetherightproblem/</link>
-      <pubDate>Tue, 24 Sep 2024 21:49:13 +1200</pubDate>
+      <link>http://localhost:1313/tags/solvetherightproblem/</link>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +1300</pubDate>
       
-      <guid>https://jasonvella.com/tags/solvetherightproblem/</guid>
+      <guid>http://localhost:1313/tags/solvetherightproblem/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>W Edwards Deming</title>
+      <link>http://localhost:1313/tags/w-edwards-deming/</link>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +1300</pubDate>
+      
+      <guid>http://localhost:1313/tags/w-edwards-deming/</guid>
       
         <description></description>
       

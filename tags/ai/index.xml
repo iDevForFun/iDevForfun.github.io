@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Zero Degrees Kelvin</title>
-    <link>https://jasonvella.com/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in AI on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 12:30:00 +1300</lastBuildDate><atom:link href="https://jasonvella.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 12:00:00 +1300</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Did We Learn Nothing From SRE?</title>
+      <link>http://localhost:1313/posts/didwelearnnothingfromsre/</link>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +1300</pubDate>
+      
+      <guid>http://localhost:1313/posts/didwelearnnothingfromsre/</guid>
+      
+        <description>&lt;p&gt;It seems fairly common for organisations adopting AI tooling to measure adoption rates, token usage, generated code commits, etc and I must admit my mind boggles. &lt;a href=&#34;https://www.linkedin.com/in/johnwillisatlanta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Willis&lt;/a&gt; recently wrote &lt;a href=&#34;https://www.linkedin.com/pulse/what-deming-would-say-ai-metrics-john-willis-hk5qe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this excellent post&lt;/a&gt; on the topic and what &lt;a href=&#34;https://en.wikipedia.org/wiki/W._Edwards_Deming&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;W Edwards Deming&lt;/a&gt; might think about this and it got me thinking of the same problem from a different angle. I have to ask the question - &lt;em&gt;&lt;strong&gt;Did we learn nothing from SRE?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>No, The AI is not learning from you</title>
-      <link>https://jasonvella.com/posts/aiisnotlearningfromyou/</link>
+      <link>http://localhost:1313/posts/aiisnotlearningfromyou/</link>
       <pubDate>Fri, 13 Mar 2026 12:30:00 +1300</pubDate>
       
-      <guid>https://jasonvella.com/posts/aiisnotlearningfromyou/</guid>
+      <guid>http://localhost:1313/posts/aiisnotlearningfromyou/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;I&amp;rsquo;m imparting my knowledge on the bro&amp;rdquo; - &lt;a href=&#34;https://www.imdb.com/title/tt4698684/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hunt for the Wilderpeople (2016)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;No. The AI is not learning from you. Really it isn&amp;rsquo;t although I hear this often and people are so convinced that this is the case.&lt;/p&gt;</description>
@@ -21,10 +32,10 @@
     
     <item>
       <title>The Economics of AI Agents</title>
-      <link>https://jasonvella.com/posts/economicsofaiagents/</link>
+      <link>http://localhost:1313/posts/economicsofaiagents/</link>
       <pubDate>Thu, 02 Oct 2025 12:00:57 +1300</pubDate>
       
-      <guid>https://jasonvella.com/posts/economicsofaiagents/</guid>
+      <guid>http://localhost:1313/posts/economicsofaiagents/</guid>
       
         <description>&lt;p&gt;It may or may not be common knowledge that I have a background in accounting. In a former life I was responsible for running the accounting function of my workplace including taxation, financial reporting, chart of accounts, etc. I loved the accounting and the maths but not so much the job itself which is how I found myself returning to university in my late twenties to study software engineering. I&amp;rsquo;ve always thought this background gives me a slightly different perspective on software engineering as it relates to business. I consider the return on investment (ROI) of every line of code written (even every comment). There needs to be value to the business in what we do otherwise it&amp;rsquo;s just waste. Don&amp;rsquo;t get me wrong, I&amp;rsquo;m an engineer through and through but it&amp;rsquo;s the business that keeps the lights on and ultimately we are bound to that bottom line whether we like it or not.&lt;/p&gt;</description>
       

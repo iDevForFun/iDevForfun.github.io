@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W Edwards Deming on Zero Degrees Kelvin</title>
-    <link>https://jasonvella.com/tags/w-edwards-deming/</link>
+    <link>http://localhost:1313/tags/w-edwards-deming/</link>
     <description>Recent content in W Edwards Deming on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2025 21:12:42 +1300</lastBuildDate><atom:link href="https://jasonvella.com/tags/w-edwards-deming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 12:00:00 +1300</lastBuildDate><atom:link href="http://localhost:1313/tags/w-edwards-deming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Did We Learn Nothing From SRE?</title>
+      <link>http://localhost:1313/posts/didwelearnnothingfromsre/</link>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +1300</pubDate>
+      
+      <guid>http://localhost:1313/posts/didwelearnnothingfromsre/</guid>
+      
+        <description>&lt;p&gt;It seems fairly common for organisations adopting AI tooling to measure adoption rates, token usage, generated code commits, etc and I must admit my mind boggles. &lt;a href=&#34;https://www.linkedin.com/in/johnwillisatlanta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Willis&lt;/a&gt; recently wrote &lt;a href=&#34;https://www.linkedin.com/pulse/what-deming-would-say-ai-metrics-john-willis-hk5qe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this excellent post&lt;/a&gt; on the topic and what &lt;a href=&#34;https://en.wikipedia.org/wiki/W._Edwards_Deming&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;W Edwards Deming&lt;/a&gt; might think about this and it got me thinking of the same problem from a different angle. I have to ask the question - &lt;em&gt;&lt;strong&gt;Did we learn nothing from SRE?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Scaling Humans with the SDLC</title>
-      <link>https://jasonvella.com/posts/scalinghumanswiththesdlc/</link>
+      <link>http://localhost:1313/posts/scalinghumanswiththesdlc/</link>
       <pubDate>Wed, 05 Mar 2025 21:12:42 +1300</pubDate>
       
-      <guid>https://jasonvella.com/posts/scalinghumanswiththesdlc/</guid>
+      <guid>http://localhost:1313/posts/scalinghumanswiththesdlc/</guid>
       
         <description>&lt;script&gt;
 
