@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SolveTheRightProblem on Zero Degrees Kelvin</title>
-    <link>http://localhost:1313/tags/solvetherightproblem/</link>
+    <link>https://jasonvella.com/tags/solvetherightproblem/</link>
     <description>Recent content in SolveTheRightProblem on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:00:00 +1300</lastBuildDate><atom:link href="http://localhost:1313/tags/solvetherightproblem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 12:00:00 +1300</lastBuildDate><atom:link href="https://jasonvella.com/tags/solvetherightproblem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Did We Learn Nothing From SRE?</title>
-      <link>http://localhost:1313/posts/didwelearnnothingfromsre/</link>
+      <link>https://jasonvella.com/posts/didwelearnnothingfromsre/</link>
       <pubDate>Tue, 31 Mar 2026 12:00:00 +1300</pubDate>
       
-      <guid>http://localhost:1313/posts/didwelearnnothingfromsre/</guid>
+      <guid>https://jasonvella.com/posts/didwelearnnothingfromsre/</guid>
       
         <description>&lt;p&gt;It seems fairly common for organisations adopting AI tooling to measure adoption rates, token usage, generated code commits, etc and I must admit my mind boggles. &lt;a href=&#34;https://www.linkedin.com/in/johnwillisatlanta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Willis&lt;/a&gt; recently wrote &lt;a href=&#34;https://www.linkedin.com/pulse/what-deming-would-say-ai-metrics-john-willis-hk5qe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this excellent post&lt;/a&gt; on the topic and what &lt;a href=&#34;https://en.wikipedia.org/wiki/W._Edwards_Deming&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;W Edwards Deming&lt;/a&gt; might think about this and it got me thinking of the same problem from a different angle. I have to ask the question - &lt;em&gt;&lt;strong&gt;Did we learn nothing from SRE?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Swim between the flags</title>
-      <link>http://localhost:1313/posts/safetyflags/</link>
+      <link>https://jasonvella.com/posts/safetyflags/</link>
       <pubDate>Tue, 24 Sep 2024 21:49:13 +1200</pubDate>
       
-      <guid>http://localhost:1313/posts/safetyflags/</guid>
+      <guid>https://jasonvella.com/posts/safetyflags/</guid>
       
         <description>&lt;p&gt;If you release software with any reasonable cadence, it&amp;rsquo;s almost inevitable you will end up using a feature flag system of one sort or another. There always comes the time when engineering wants to decouple from the release cycle of the Go To Market (GTM) team and with good reason. The GTM team is slower and more traditional. They want to announce big &amp;ldquo;drops&amp;rdquo; and send out the marching band to showcase all the cool new stuff you can do in a process that can take months to orchestrate whereas we prefer to deploy more frequently in small increments.&lt;/p&gt;</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>In the defence of performance</title>
-      <link>http://localhost:1313/posts/defendingperformance/</link>
+      <link>https://jasonvella.com/posts/defendingperformance/</link>
       <pubDate>Tue, 21 May 2024 20:53:30 +1200</pubDate>
       
-      <guid>http://localhost:1313/posts/defendingperformance/</guid>
+      <guid>https://jasonvella.com/posts/defendingperformance/</guid>
       
         <description>&lt;p&gt;Defensive programming is a solid practice to adopt and I generally advocate that we do so but we have to be careful we are still getting the value we expect from the practice.&lt;/p&gt;</description>
       
