@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jasonvella.com/posts/humaninthelooporhumanintheway/</loc>
+    <lastmod>2026-05-20T12:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/posts/</loc>
+    <lastmod>2026-05-20T12:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://jasonvella.com/</loc>
+    <lastmod>2026-05-20T12:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://jasonvella.com/tags/ai/</loc>
     <lastmod>2026-03-31T12:00:00+13:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/posts/didwelearnnothingfromsre/</loc>
-    <lastmod>2026-03-31T12:00:00+13:00</lastmod>
-  </url><url>
-    <loc>https://jasonvella.com/posts/</loc>
     <lastmod>2026-03-31T12:00:00+13:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/tags/solvetherightproblem/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2026-03-31T12:00:00+13:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/tags/w-edwards-deming/</loc>
-    <lastmod>2026-03-31T12:00:00+13:00</lastmod>
-  </url><url>
-    <loc>https://jasonvella.com/</loc>
     <lastmod>2026-03-31T12:00:00+13:00</lastmod>
   </url><url>
     <loc>https://jasonvella.com/posts/aiisnotlearningfromyou/</loc>

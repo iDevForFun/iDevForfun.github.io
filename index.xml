@@ -6,7 +6,18 @@
     <description>Recent content on Zero Degrees Kelvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:00:00 +1300</lastBuildDate><atom:link href="https://jasonvella.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2026 12:00:00 +1300</lastBuildDate><atom:link href="https://jasonvella.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human-In-The-Loop or Human-In-The-Way</title>
+      <link>https://jasonvella.com/posts/humaninthelooporhumanintheway/</link>
+      <pubDate>Wed, 20 May 2026 12:00:00 +1300</pubDate>
+      
+      <guid>https://jasonvella.com/posts/humaninthelooporhumanintheway/</guid>
+      
+        <description>&lt;p&gt;The promise of acceleration from AI developer tooling is highly alluring and yet there&amp;rsquo;s this annoying risk of such tooling generating logic that would result in &amp;hellip; uh &amp;hellip; &lt;em&gt;negative&lt;/em&gt; outcomes. The go-to mitigation seems to be an insistence on maintaining human code review stage gates. Someone must be &amp;ldquo;accountable&amp;rdquo; (what does this even mean?) for the quality of the output they didn&amp;rsquo;t output. The so called &lt;em&gt;human-(silver-bullet)-in-the-loop&lt;/em&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Did We Learn Nothing From SRE?</title>
       <link>https://jasonvella.com/posts/didwelearnnothingfromsre/</link>
